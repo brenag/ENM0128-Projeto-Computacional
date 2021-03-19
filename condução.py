@@ -1,5 +1,5 @@
     # -*- coding: utf-8 -*-
-#Solucção Numérica da Equação Geral da Condução de Calor utilizando o Método das Diferenças Finitas
+#Solução Numérica da Equação Geral da Condução de Calor utilizando o Método das Diferenças Finitas
 #Aluno: Emanuel Couto Brenag
 #ENM0128 - Transporte de Calor e Massa
 
